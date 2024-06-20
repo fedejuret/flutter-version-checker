@@ -1,7 +1,8 @@
 name: flutter_version_checker_package
-description: "Package to check app versions using an API"
-version: 0.0.1
-homepage: null
+description: "With this package, you will be able to verify the version that your users are running and thus analyze if they need to update to a newer version."
+version: 0.0.2
+homepage: https://federicojuretich.com
+repository: https://github.com/fedejuret/flutter-version-checker
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
