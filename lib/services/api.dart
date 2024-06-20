@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 import 'package:package_info_plus/package_info_plus.dart';
 
 final class Api {
-  final String apiUrl = "http://192.168.0.109:8080";
+  final String apiUrl = "http://app.version.checker.federicojuretich.com";
 
   Future<
           (
